@@ -96,6 +96,11 @@ const config: Config = {
             to: '/docs/shivansh',
             position: 'left'
           },
+          {
+            label: 'Anish',
+            to: '/docs/anish',
+            position: 'left'
+          }
       ],
     },
     // footer: {
