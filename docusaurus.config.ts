@@ -92,6 +92,11 @@ const config: Config = {
         //   position: 'right',
         // },
           {
+           label: 'akash',
+            to: '/docs/akash',  
+            position: 'left',
+          },
+          {
             label: 'shivansh',
             to: '/docs/shivansh',
             position: 'left'
@@ -105,6 +110,7 @@ const config: Config = {
             label: 'Shivani',
             to: '/docs/shivani',
             position: 'left'          },
+            
       ],
     },
     // footer: {
