@@ -1,0 +1,3 @@
+[submodule "docusaurus-submodule"]
+	path = docusaurus-submodule
+	url = https://github.com/shreeyansh64/docusaurus-2025.git
