@@ -105,6 +105,10 @@ const config: Config = {
             label: 'Shivani',
             to: '/docs/shivani',
             position: 'left'          },
+            {
+            label: 'Shreyam',
+            to: '/docs/Shreyam',
+            position: 'left'          },
       ],
     },
     // footer: {
