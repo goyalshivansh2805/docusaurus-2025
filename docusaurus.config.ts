@@ -102,9 +102,15 @@ const config: Config = {
             position: 'left'
           },
           {
+            label: 'Monu',
+            to: '/docs/monu',
+            position: 'left'
+          },
+          {
             label: 'Shivani',
             to: '/docs/shivani',
-            position: 'left'          },
+            position: 'left' 
+          },
       ],
     },
     // footer: {
