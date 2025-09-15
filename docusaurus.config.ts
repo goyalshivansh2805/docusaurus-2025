@@ -100,7 +100,11 @@ const config: Config = {
             label: 'Anish',
             to: '/docs/anish',
             position: 'left'
-          }
+          },
+          {
+            label: 'Shivani',
+            to: '/docs/shivani',
+            position: 'left'          },
       ],
     },
     // footer: {
