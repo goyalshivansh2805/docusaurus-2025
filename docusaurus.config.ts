@@ -107,8 +107,8 @@ const config: Config = {
             position: 'left'          
           },
           {
-            label: 'Anish',
-            to: '/docs/anish',
+            label: 'Tarun',
+            to: '/docs/tarun',
             position: 'left'
           }
       ],
