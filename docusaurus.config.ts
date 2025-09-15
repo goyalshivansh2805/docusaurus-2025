@@ -91,6 +91,11 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
+        {
+          label: 'Monu',
+          to: '/docs/monu',
+          position: 'left'
+        },
           {
             label: 'shivansh',
             to: '/docs/shivansh',
@@ -104,7 +109,8 @@ const config: Config = {
           {
             label: 'Shivani',
             to: '/docs/shivani',
-            position: 'left'          },
+            position: 'left' 
+          },
       ],
     },
     // footer: {
