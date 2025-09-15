@@ -104,7 +104,13 @@ const config: Config = {
           {
             label: 'Shivani',
             to: '/docs/shivani',
-            position: 'left'          },
+            position: 'left'          
+          },
+          {
+            label: 'Tarun',
+            to: '/docs/tarun',
+            position: 'left'
+          }
       ],
     },
     // footer: {
