@@ -106,6 +106,10 @@ const config: Config = {
             to: '/docs/anish',
             position: 'left'
           },
+            label: 'Agrim',
+            to: '/docs/agrim',
+            position: 'left'
+          },
           {
             label: 'Shivani',
             to: '/docs/shivani',
