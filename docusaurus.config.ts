@@ -73,7 +73,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'suryansh',
+      title: 'my site',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -104,6 +104,10 @@ const config: Config = {
           {
             label: 'Shivani',
             to: '/docs/shivani',
+            position: 'left'          },
+        {
+            label: 'suryansh',
+            to: '/docs/suryansh',
             position: 'left'          },
       ],
     },
