@@ -114,6 +114,11 @@ const config: Config = {
             label: 'Ishika',
             to: '/docs/ishika',
             position: 'left' },
+                {
+           label: 'Sarthak',
+            to: '/docs/sarthak',  
+            position: 'left',
+          },
       ],
     },
     // footer: {
