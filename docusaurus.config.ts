@@ -92,6 +92,11 @@ const config: Config = {
         //   position: 'right',
         // },
           {
+           label: 'akash',
+            to: '/docs/akash',  
+            position: 'left',
+          },
+          {
             label: 'shivansh',
             to: '/docs/shivansh',
             position: 'left'
