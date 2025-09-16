@@ -93,7 +93,7 @@ const config: Config = {
         // },
           {
             to: '/docs/khushi',  
-            label: 'Khushi',
+            label: 'khushi',
             position: 'left',
           },
           {
