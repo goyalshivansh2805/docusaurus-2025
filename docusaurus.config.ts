@@ -107,7 +107,7 @@ const config: Config = {
             position: 'left'          },
           {
             label: 'Sanjeev',
-            to: 'docs/sanjeev_yadav',
+            to: '/docs/sanjeev_yadav',
             position: 'left'
         },
       ],
