@@ -107,6 +107,11 @@ const config: Config = {
             position: 'left'
           },
           {
+            label: 'sanchit',
+            to: '/docs/sanchit',
+            position: 'left'
+          },
+          {
             label: 'Shivani',
             to: '/docs/shivani',
             position: 'left'          },
