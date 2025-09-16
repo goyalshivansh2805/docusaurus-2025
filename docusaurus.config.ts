@@ -79,6 +79,12 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+{
+  type: 'doc',
+  docId: 'tanay',
+  position: 'left',
+  label: 'Tanay',
+},
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',
