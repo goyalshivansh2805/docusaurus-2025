@@ -109,8 +109,11 @@ const config: Config = {
           {
             label: 'Shivani',
             to: '/docs/shivani',
-            position: 'left'          
-          },
+            position: 'left'          },
+          {  
+            label: 'Madhur Tyagi',
+             to: 'docs/madhur_tyagi',
+             position: 'left',        },
           {
             label: 'Sahyadri',
             to: '/docs/sahyadri',
