@@ -80,17 +80,22 @@ const config: Config = {
       },
       items: [
         // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'tutorialSidebar',
-        //   position: 'left',
-        //   label: 'Tutorial',
-        // },
+        //type: 'docSidebar',
+        //sidebarId: 'tutorialSidebar',
+        //position: 'left',
+        //label: 'Tutorial',
+        //},
         // {to: '/blog', label: 'Blog', position: 'left'},
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',
         //   position: 'right',
         // },
+          {
+           label: 'akash',
+            to: '/docs/akash',  
+            position: 'left',
+          },
           {
             label: 'shivansh',
             to: '/docs/shivansh',
@@ -109,7 +114,29 @@ const config: Config = {
             label: 'Madhur Tyagi',
              to: 'docs/madhur_tyagi',
              position: 'left',        },
-          
+          {
+            label: 'Sahyadri',
+            to: '/docs/sahyadri',
+            position: 'left'
+          },
+            {
+            label: 'raj',
+            to: '/docs/raj',
+            position: 'left'  },
+
+          { 
+            label: 'Ishika',
+            to: '/docs/ishika',
+            position: 'left' },
+                {
+           label: 'Sarthak',
+            to: '/docs/sarthak',  
+            position: 'left',
+          },
+             { 
+            label: 'Ayush',
+            to: '/docs/ayush',
+            position: 'left' }
       ],
     },
     // footer: {
