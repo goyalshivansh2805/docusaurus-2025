@@ -125,6 +125,11 @@ const config: Config = {
             label: 'Ishika',
             to: '/docs/ishika',
             position: 'left' },
+                {
+           label: 'Sarthak',
+            to: '/docs/sarthak',  
+            position: 'left',
+          },
              { 
             label: 'Ayush',
             to: '/docs/ayush',
